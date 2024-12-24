@@ -1,0 +1,746 @@
+		
+atp1	30	3
+atp1	1178	2
+atp1	1292	2
+atp1	1490	2
+atp1	1499	2
+atp4	59	2
+atp4	62	2
+atp4	74	2
+atp4	79	1
+atp4	92	2
+atp4	121	1
+atp4	251	2
+atp4	261	3
+atp4	398	2
+atp4	419	2
+atp6	84
+atp6	91
+atp6	101
+atp6	170
+atp6	208
+atp6	221
+atp6	227
+atp6	278
+atp6	283
+atp6	290
+atp6	308
+atp6	316
+atp6	323
+atp6	324
+atp6	455
+atp6	514
+atp6	517
+atp6	539
+atp6	581
+atp6	602
+atp6	653
+atp6	689
+atp6	710
+atp6	718
+atp6	725
+atp6	734
+atp6	761
+atp6	768
+atp6	772
+atp8	58	1
+atp8	60	3
+atp8	123	3
+atp8	200	2
+atp8	240	3
+atp8	442	1
+atp8	443	2
+atp9	20	2
+atp9	81	3
+atp9	82	1
+atp9	92	2
+atp9	191	2
+atp9	205	1
+atp9	212	2
+atp9	223	1
+ccmB	28	1
+ccmB	43	1
+ccmB	80	2
+ccmB	87	3
+ccmB	128	2
+ccmB	137	2
+ccmB	149	2
+ccmB	154	1
+ccmB	160	1
+ccmB	172	1
+ccmB	179	2
+ccmB	181	1
+ccmB	194	2
+ccmB	286	1
+ccmB	304	1
+ccmB	338	2
+ccmB	367	1
+ccmB	392	2
+ccmB	428	2
+ccmB	467	2
+ccmB	475	1
+ccmB	476	2
+ccmB	485	2
+ccmB	502	1
+ccmB	503	2
+ccmB	512	2
+ccmB	514	1
+ccmB	551	2
+ccmB	554	2
+ccmB	566	2
+ccmB	569	2
+ccmB	572	2
+ccmB	596	2
+ccmB	611	2
+ccmC	76	1
+ccmC	103	1
+ccmC	115	1
+ccmC	161	2
+ccmC	179	2
+ccmC	184	1
+ccmC	227	2
+ccmC	236	2
+ccmC	299	2
+ccmC	331	1
+ccmC	358	1
+ccmC	400	1
+ccmC	418	1
+ccmC	421	1
+ccmC	436	1
+ccmC	446	2
+ccmC	451	1
+ccmC	458	2
+ccmC	463	1
+ccmC	467	2
+ccmC	473	2
+ccmC	497	2
+ccmC	499	1
+ccmC	521	2
+ccmC	548	2
+ccmC	568	1
+ccmC	575	2
+ccmC	608	2
+ccmC	614	2
+ccmC	619	1
+ccmC	624	3
+ccmC	634	1
+ccmC	650	2
+ccmC	656	2
+ccmC	665	2
+ccmC	673	1
+ccmFC	38
+ccmFC	39
+ccmFC	50
+ccmFC	52
+ccmFC	103
+ccmFC	107
+ccmFC	119
+ccmFC	122
+ccmFC	146
+ccmFC	151
+ccmFC	152
+ccmFC	160
+ccmFC	301
+ccmFC	397
+ccmFC	546
+ccmFC	823
+ccmFC	890
+ccmFC	1160
+ccmFC	1180
+ccmFC	1181
+ccmFC	1255
+ccmFC	1280
+ccmFC	1289
+ccmFC	1336
+ccmFN	37	1
+ccmFN	38	2
+ccmFN	98	2
+ccmFN	121	1
+ccmFN	137	2
+ccmFN	142	1
+ccmFN	151	1
+ccmFN	248	2
+ccmFN	263	2
+ccmFN	356	2
+ccmFN	365	2
+ccmFN	372	3
+ccmFN	461	2
+ccmFN	469	1
+ccmFN	550	1
+ccmFN	596	2
+ccmFN	698	2
+ccmFN	707	2
+ccmFN	745	1
+ccmFN	767	2
+ccmFN	779	2
+ccmFN	794	2
+ccmFN	943	1
+ccmFN	1175	2
+ccmFN	1258	1
+ccmFN	1286	2
+ccmFN	1303	1
+ccmFN	1318	1
+ccmFN	1336	1
+ccmFN	1369	1
+ccmFN	1387	1
+ccmFN	1430	2
+ccmFN	1450	1
+ccmFN	1453	1
+ccmFN	1454	2
+ccmFN	1466	2
+ccmFN	1501	1
+ccmFN	1514	2
+ccmFN	1549	1
+ccmFN	1613	2
+cob	178	1
+cob	286	1
+cob	298	1
+cob	325	1
+cob	419	2
+cob	564	3
+cob	568	1
+cob	580	1
+cob	680	2
+cob	715	1
+cob	725	2
+cob	808	1
+cob	853	1
+cob	908	2
+cob	982	1
+cob	1081	1
+cob	1098	3
+cob	1119	3
+cob	1124	2
+cox1	15	3
+cox1	1402	1
+cox1	1405	1
+cox1	1433	2
+cox1	1489	1
+cox2	44
+cox2	77
+cox2	144
+cox2	169
+cox2	259
+cox2	284
+cox2	385
+cox2	449
+cox2	466
+cox2	467
+cox2	482
+cox2	550
+cox2	563
+cox2	587
+cox2	620
+cox2	682
+cox2	724
+cox2	745
+cox3	112
+cox3	245
+cox3	257
+cox3	289
+cox3	311
+cox3	314
+cox3	388
+cox3	413
+cox3	422
+cox3	512
+cox3	527
+cox3	566
+cox3	567
+cox3	605
+cox3	754
+cox3	764
+matR	26
+matR	32
+matR	43
+matR	236
+matR	325
+matR	326
+matR	382
+matR	1070
+matR	1548
+matR	1681
+matR	1685
+matR	1686
+matR	1706
+matR	1726
+matR	1740
+matR	1762
+matR	1793
+matR	1840
+matR	1850
+matR	1860
+matR	1881
+nad1	2
+nad1	138
+nad1	215
+nad1	307
+nad1	308
+nad1	376
+nad1	442
+nad1	496
+nad1	498
+nad1	506
+nad1	542
+nad1	543
+nad1	561
+nad1	577
+nad1	583
+nad1	586
+nad1	614
+nad1	641
+nad1	680
+nad1	731
+nad1	740
+nad1	746
+nad1	749
+nad1	761
+nad1	785
+nad1	808
+nad1	829
+nad1	836
+nad1	904
+nad1	915
+nad1	934
+nad1	943
+nad1	945
+nad1	959
+nad2	26
+nad2	211
+nad2	220
+nad2	239
+nad2	249
+nad2	263
+nad2	305
+nad2	332
+nad2	338
+nad2	353
+nad2	358
+nad2	364
+nad2	385
+nad2	391
+nad2	398
+nad2	425
+nad2	494
+nad2	520
+nad2	546
+nad2	618
+nad2	659
+nad2	674
+nad2	700
+nad2	785
+nad2	797
+nad2	806
+nad2	917
+nad2	925
+nad2	955
+nad2	959
+nad2	1022
+nad2	1025
+nad2	1054
+nad2	1055
+nad2	1124
+nad2	1197
+nad2	1243
+nad2	1273
+nad2	1316
+nad2	1418
+nad2	1421
+nad2	1426
+nad2	1427
+nad2	1434
+nad2	1475
+nad3	39
+nad3	44
+nad3	61
+nad3	62
+nad3	80
+nad3	102
+nad3	124
+nad3	137
+nad3	138
+nad3	146
+nad3	185
+nad3	190
+nad3	208
+nad3	209
+nad3	215
+nad3	225
+nad3	230
+nad3	233
+nad3	247
+nad3	251
+nad3	266
+nad3	275
+nad3	317
+nad3	344
+nad3	349
+nad4	13
+nad4	29
+nad4	44
+nad4	50
+nad4	74
+nad4	77
+nad4	107
+nad4	154
+nad4	158
+nad4	164
+nad4	166
+nad4	197
+nad4	317
+nad4	362
+nad4	368
+nad4	376
+nad4	401
+nad4	416
+nad4	433
+nad4	436
+nad4	437
+nad4	449
+nad4	533
+nad4	566
+nad4	577
+nad4	599
+nad4	659
+nad4	767
+nad4	770
+nad4	784
+nad4	832
+nad4	836
+nad4	837
+nad4	856
+nad4	857
+nad4	883
+nad4	887
+nad4	896
+nad4	934
+nad4	971
+nad4	977
+nad4	1006
+nad4	1007
+nad4	1010
+nad4	1016
+nad4	1033
+nad4	1036
+nad4	1091
+nad4	1109
+nad4	1129
+nad4	1132
+nad4	1142
+nad4	1148
+nad4	1151
+nad4	1152
+nad4	1172
+nad4	1205
+nad4	1211
+nad4	1323
+nad4	1355
+nad4	1373
+nad4	1405
+nad4	1417
+nad4	1433
+nad4l	2
+nad4l	41
+nad4l	55
+nad4l	67
+nad4l	86
+nad4l	95
+nad4l	100
+nad4l	110
+nad4l	131
+nad4l	150
+nad4l	230
+nad4l	281
+nad5	155
+nad5	227
+nad5	242
+nad5	272
+nad5	354
+nad5	358
+nad5	359
+nad5	374
+nad5	398
+nad5	465
+nad5	494
+nad5	506
+nad5	539
+nad5	548
+nad5	553
+nad5	598
+nad5	713
+nad5	721
+nad5	725
+nad5	764
+nad5	835
+nad5	863
+nad5	1184
+nad5	1400
+nad5	1490
+nad5	1550
+nad5	1580
+nad5	1589
+nad5	1610
+nad5	1665
+nad5	1740
+nad5	1859
+nad5	1895
+nad5	1900
+nad5	1901
+nad5	1916
+nad5	1918
+nad5	1931
+nad5	1958
+nad6	17
+nad6	25
+nad6	26
+nad6	83
+nad6	88
+nad6	89
+nad6	95
+nad6	103
+nad6	146
+nad6	158
+nad6	161
+nad6	169
+nad6	191
+nad6	289
+nad6	306
+nad6	379
+nad6	446
+nad6	463
+nad6	469
+nad6	569
+nad7	38
+nad7	44
+nad7	45
+nad7	77
+nad7	83
+nad7	137
+nad7	200
+nad7	209
+nad7	224
+nad7	244
+nad7	251
+nad7	315
+nad7	316
+nad7	335
+nad7	344
+nad7	353
+nad7	383
+nad7	445
+nad7	531
+nad7	533
+nad7	534
+nad7	578
+nad7	679
+nad7	698
+nad7	724
+nad7	734
+nad7	739
+nad7	740
+nad7	769
+nad7	789
+nad7	795
+nad7	836
+nad7	926
+nad7	944
+nad7	963
+nad7	973
+nad7	1050
+nad7	1057
+nad7	1079
+nad7	1088
+nad7	1103
+nad7	1124
+nad7	1166
+nad9	14
+nad9	15
+nad9	92
+nad9	111
+nad9	113
+nad9	167
+nad9	190
+nad9	223
+nad9	298
+nad9	311
+nad9	328
+nad9	356
+nad9	368
+nad9	398
+nad9	539
+rps12	71
+rps12	112
+rps12	196
+rps12	221
+rps12	269
+rps12	284
+rps12	289
+mttB	12
+mttB	44
+mttB	55
+mttB	77
+mttB	82
+mttB	93
+mttB	118
+mttB	129
+mttB	130
+mttB	140
+mttB	146
+mttB	148
+mttB	149
+mttB	196
+mttB	206
+mttB	218
+mttB	220
+mttB	254
+mttB	261
+mttB	299
+mttB	346
+mttB	349
+mttB	362
+mttB	364
+mttB	369
+mttB	378
+mttB	391
+mttB	392
+mttB	394
+mttB	397
+mttB	425
+mttB	455
+mttB	459
+mttB	465
+mttB	490
+mttB	523
+mttB	566
+mttB	572
+mttB	596
+mttB	628
+mttB	638
+mttB	678
+mttB	685
+mttB	690
+mttB	692
+mttB	698
+mttB	701
+mttB	722
+rpl16	15
+rpl16	38
+rpl16	48
+rpl16	79
+rpl16	93
+rpl16	184
+rpl16	225
+rpl16	227
+rpl16	228
+rpl16	287
+rpl16	355
+rpl16	444
+rpl16	458
+rpl16	524
+rpl16	530
+rpl2	50
+rpl2	180
+rpl2	304
+rpl2	1378
+rpl5	7
+rpl5	35
+rpl5	47
+rpl5	59
+rpl5	64
+rpl5	92
+rpl5	166
+rpl5	167
+rpl5	169
+rpl5	210
+rpl5	338
+rpl5	385
+rpl5	453
+rpl5	521
+rpl5	524
+rps1	23
+rps1	56
+rps1	107
+rps1	453
+rps10	2
+rps10	16
+rps10	43
+rps10	237
+rps10	241
+rps10	305
+rps10	334
+rps10	345
+rps10	346
+rps11	9
+rps11	23
+rps11	285
+rps11	306
+rps11	411
+rps11	427
+rps11	436
+rps13	5
+rps13	14
+rps13	26
+rps13	56
+rps13	100
+rps13	129
+rps13	256
+rps13	287
+rps14	120
+rps14	165
+rps14	204
+rps14	215
+rps14	292
+rps19	116
+rps19	138
+rps19	163
+rps19	164
+rps19	180
+rps19	221
+rps2	179
+rps2	200
+rps2	381
+rps2	449
+rps2	520
+rps2	544
+rps2	551
+rps3	58
+rps3	64
+rps3	69
+rps3	92
+rps3	126
+rps3	171
+rps3	506
+rps3	512
+rps3	599
+rps3	713
+rps3	884
+rps3	1025
+rps3	1212
+rps3	1385
+rps3	1549
+rps3	1572
+rps3	1582
+rps3	1613
+rps3	1627
+rps4	38
+rps4	49
+rps4	164
+rps4	184
+rps4	278
+rps4	290
+rps4	335
+rps4	474
+rps4	482
+rps4	625
+rps4	663
+rps4	834
+rps4	873
+rps4	902
+rps4	913
+rps4	923
+rps4	989
+rps4	998
+rps4	1003
+rps7	116
+rps7	277
+rps7	332
